@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'CooperHewitt-Bold';
+    src: url('CooperHewitt-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Book';
+    src: url('CooperHewitt-Book.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Heavy';
+    src: url('CooperHewitt-Heavy.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Light';
+    src: url('CooperHewitt-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url('CooperHewitt-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Semibold';
+    src: url('CooperHewitt-Semibold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'CooperHewitt-Thin';
+    src: url('CooperHewitt-Thin.otf') format('opentype');
+}
+
